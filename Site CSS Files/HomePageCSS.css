@@ -1,0 +1,35 @@
+.Nav h2{
+    text-align: center;
+}
+.Body h2{
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+}
+.Nav li{
+    display: inline;
+    margin: 20px;
+}
+.Nav{
+    background-color: darkcyan;
+    color: white;
+    margin: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.Nav a{
+    color: white;
+}
+.Nav a:active{
+    color: teal;
+}
+.Whole{
+    background-image: url("/Users/cadebray/Projects/First Website/Site Images/background.jpg");
+    background-size: cover;
+    color: black;
+    padding: 2px;
+    width: 100%;
+    height: 100%;
+    border-width: 0px;
+    
+}
