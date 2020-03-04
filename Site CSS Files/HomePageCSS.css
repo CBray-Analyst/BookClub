@@ -9,6 +9,7 @@
 .Nav li{
     display: inline;
     margin: 20px;
+    background-color: cadetblue;
 }
 .Nav{
     background-color: darkcyan;
@@ -24,7 +25,7 @@
     color: teal;
 }
 .Whole{
-    background-image: url("/Users/cadebray/Projects/First Website/Site Images/background.jpg");
+    back;
     background-size: cover;
     color: black;
     padding: 2px;
